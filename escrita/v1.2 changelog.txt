@@ -1,4 +1,0 @@
-Adicionou um "blog" experimental feito com HTMLy
-(infelizmente está quebrado no momento)
-
-Adicionou o texto pot-pourri

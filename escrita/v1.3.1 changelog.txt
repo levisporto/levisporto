@@ -1,4 +1,0 @@
-Removeu o HTMLy quebrado
-
-Adicionou o metatags em todos os textos
-Adicionou "Na Toca" no index
