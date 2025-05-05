@@ -1,0 +1,68 @@
+.contact-card {
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+.contact-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 15px 30px rgba(0,0,0,0.1);
+}
+.social-icon {
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+.social-icon:hover {
+    transform: scale(1.2);
+}
+
+a{
+    text-decoration: none;
+    color: #198754;
+}
+
+.btn a:hover{
+    text-decoration: none;
+   
+}
+
+.btn-success a {
+    color:white;
+}
+
+.btn-outline-success:hover {
+    color:white;
+}
+
+
+.btn-outline-success:hover {
+    a {
+        color:white;
+    }}
+
+
+    .bg-light {
+        --bs-bg-opacity: 5;
+    }
+
+
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      
+      body {
+        min-height: 100vh;
+        background: linear-gradient(to bottom, #0b0b2b, #1b2735 70%, #090a0f);
+        overflow: hidden;
+      }
+      
+      .bg-dark {
+        background: radial-gradient(circle, #084400 10%, transparent 11%);
+        background-size: 1em 1em;
+       
+        opacity: 1;
+        
+      }
+
+    
+
+     
